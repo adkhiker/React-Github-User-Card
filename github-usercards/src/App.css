@@ -1,0 +1,17 @@
+#root {
+  display: block;
+  background-color: #208191;
+  text-align: center;
+  width: auto;
+  border: 15px solid #223843;
+  border-radius: 10px;
+}
+
+.graph {
+  background: #25272a;
+  padding: 5px;
+  margin-top: 10px;
+  color: #f2c14e;
+  border-radius: 3px;
+}
+
